@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 </table>
 <table align="center">
    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosyanxone&theme=radical" width="500">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosyanxone&theme=radical" width="400">
    </td>
 </table>
