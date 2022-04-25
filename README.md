@@ -16,6 +16,16 @@ Here are some ideas to get you started:
 
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=rosyanxone&show_icons=true&theme=radical" width="500">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rosyanxone&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="500">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosyanxone&theme=radical" width="500">
+<table>
+   <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=rosyanxone&show_icons=true&theme=radical" width="500">
+   </td>
+   <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=rosyanxone&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="500">
+  </td>
+</table>
+<table align="center">
+   <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosyanxone&theme=radical" width="500">
+   </td>
+</table>
